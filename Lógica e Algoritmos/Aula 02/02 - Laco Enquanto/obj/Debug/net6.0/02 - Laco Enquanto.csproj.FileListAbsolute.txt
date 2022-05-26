@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\bin\Debug\net6.0\02 - Laco Enquanto.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\bin\Debug\net6.0\02 - Laco Enquanto.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\bin\Debug\net6.0\02 - Laco Enquanto.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\bin\Debug\net6.0\02 - Laco Enquanto.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\bin\Debug\net6.0\02 - Laco Enquanto.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\02 - Laco Enquanto.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\02 - Laco Enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\02 - Laco Enquanto.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\02 - Laco Enquanto.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\02 - Laco Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\02 - Laco Enquanto.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\refint\02 - Laco Enquanto.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\02 - Laco Enquanto.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\02 - Laco Enquanto.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\02 - Laco Enquanto\obj\Debug\net6.0\ref\02 - Laco Enquanto.dll

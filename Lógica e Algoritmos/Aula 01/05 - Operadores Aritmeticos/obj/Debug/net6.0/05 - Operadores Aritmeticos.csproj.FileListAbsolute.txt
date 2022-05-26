@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\bin\Debug\net6.0\05 - Operadores Aritmeticos.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\bin\Debug\net6.0\05 - Operadores Aritmeticos.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\bin\Debug\net6.0\05 - Operadores Aritmeticos.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\bin\Debug\net6.0\05 - Operadores Aritmeticos.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\bin\Debug\net6.0\05 - Operadores Aritmeticos.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\05 - Operadores Aritmeticos.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\05 - Operadores Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\05 - Operadores Aritmeticos.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\05 - Operadores Aritmeticos.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\05 - Operadores Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\05 - Operadores Aritmeticos.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\refint\05 - Operadores Aritmeticos.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\05 - Operadores Aritmeticos.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\05 - Operadores Aritmeticos.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\05 - Operadores Aritmeticos\obj\Debug\net6.0\ref\05 - Operadores Aritmeticos.dll

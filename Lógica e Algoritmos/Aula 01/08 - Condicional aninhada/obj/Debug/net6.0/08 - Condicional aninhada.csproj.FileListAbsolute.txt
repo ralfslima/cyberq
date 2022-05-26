@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\bin\Debug\net6.0\08 - Condicional aninhada.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\bin\Debug\net6.0\08 - Condicional aninhada.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\bin\Debug\net6.0\08 - Condicional aninhada.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\bin\Debug\net6.0\08 - Condicional aninhada.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\bin\Debug\net6.0\08 - Condicional aninhada.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\08 - Condicional aninhada.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\08 - Condicional aninhada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\08 - Condicional aninhada.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\08 - Condicional aninhada.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\08 - Condicional aninhada.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\08 - Condicional aninhada.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\refint\08 - Condicional aninhada.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\08 - Condicional aninhada.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\08 - Condicional aninhada.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\08 - Condicional aninhada\obj\Debug\net6.0\ref\08 - Condicional aninhada.dll

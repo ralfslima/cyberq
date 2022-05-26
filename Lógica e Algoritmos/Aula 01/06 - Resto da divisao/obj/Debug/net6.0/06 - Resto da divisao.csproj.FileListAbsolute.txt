@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\bin\Debug\net6.0\06 - Resto da divisao.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\bin\Debug\net6.0\06 - Resto da divisao.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\bin\Debug\net6.0\06 - Resto da divisao.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\bin\Debug\net6.0\06 - Resto da divisao.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\bin\Debug\net6.0\06 - Resto da divisao.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\06 - Resto da divisao.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\06 - Resto da divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\06 - Resto da divisao.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\06 - Resto da divisao.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\06 - Resto da divisao.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\06 - Resto da divisao.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\refint\06 - Resto da divisao.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\06 - Resto da divisao.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\06 - Resto da divisao.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\06 - Resto da divisao\obj\Debug\net6.0\ref\06 - Resto da divisao.dll

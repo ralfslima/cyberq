@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\bin\Debug\net6.0\02 - Variável.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\bin\Debug\net6.0\02 - Variável.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\bin\Debug\net6.0\02 - Variável.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\bin\Debug\net6.0\02 - Variável.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\bin\Debug\net6.0\02 - Variável.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\02 - Variável.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\02 - Variável.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\02 - Variável.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\02 - Variável.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\02 - Variável.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\02 - Variável.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\refint\02 - Variável.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\02 - Variável.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\02 - Variável.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\02 - Variável\obj\Debug\net6.0\ref\02 - Variável.dll

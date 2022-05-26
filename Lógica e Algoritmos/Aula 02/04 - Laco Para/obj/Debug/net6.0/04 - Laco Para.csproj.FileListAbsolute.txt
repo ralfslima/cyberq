@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\bin\Debug\net6.0\04 - Laco Para.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\bin\Debug\net6.0\04 - Laco Para.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\bin\Debug\net6.0\04 - Laco Para.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\bin\Debug\net6.0\04 - Laco Para.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\bin\Debug\net6.0\04 - Laco Para.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\04 - Laco Para.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\04 - Laco Para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\04 - Laco Para.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\04 - Laco Para.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\04 - Laco Para.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\04 - Laco Para.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\refint\04 - Laco Para.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\04 - Laco Para.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\04 - Laco Para.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\04 - Laco Para\obj\Debug\net6.0\ref\04 - Laco Para.dll

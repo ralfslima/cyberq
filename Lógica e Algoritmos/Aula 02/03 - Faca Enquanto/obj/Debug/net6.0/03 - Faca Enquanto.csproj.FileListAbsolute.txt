@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\bin\Debug\net6.0\03 - Faca Enquanto.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\bin\Debug\net6.0\03 - Faca Enquanto.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\bin\Debug\net6.0\03 - Faca Enquanto.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\bin\Debug\net6.0\03 - Faca Enquanto.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\bin\Debug\net6.0\03 - Faca Enquanto.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\03 - Faca Enquanto.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\03 - Faca Enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\03 - Faca Enquanto.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\03 - Faca Enquanto.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\03 - Faca Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\03 - Faca Enquanto.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\refint\03 - Faca Enquanto.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\03 - Faca Enquanto.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\03 - Faca Enquanto.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\03 - Faca Enquanto\obj\Debug\net6.0\ref\03 - Faca Enquanto.dll

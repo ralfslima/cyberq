@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\bin\Debug\net6.0\04 - Operadores Logicos.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\bin\Debug\net6.0\04 - Operadores Logicos.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\bin\Debug\net6.0\04 - Operadores Logicos.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\bin\Debug\net6.0\04 - Operadores Logicos.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\bin\Debug\net6.0\04 - Operadores Logicos.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\04 - Operadores Logicos.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\04 - Operadores Logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\04 - Operadores Logicos.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\04 - Operadores Logicos.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\04 - Operadores Logicos.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\04 - Operadores Logicos.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\refint\04 - Operadores Logicos.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\04 - Operadores Logicos.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\04 - Operadores Logicos.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 01\04 - Operadores Logicos\obj\Debug\net6.0\ref\04 - Operadores Logicos.dll

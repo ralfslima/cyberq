@@ -1,0 +1,15 @@
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\bin\Debug\net6.0\Exercicio 09.exe
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\bin\Debug\net6.0\Exercicio 09.deps.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\bin\Debug\net6.0\Exercicio 09.runtimeconfig.json
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\bin\Debug\net6.0\Exercicio 09.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\bin\Debug\net6.0\Exercicio 09.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\Exercicio 09.csproj.AssemblyReference.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\Exercicio 09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\Exercicio 09.AssemblyInfoInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\Exercicio 09.AssemblyInfo.cs
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\Exercicio 09.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\Exercicio 09.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\refint\Exercicio 09.dll
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\Exercicio 09.pdb
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\Exercicio 09.genruntimeconfig.cache
+C:\Users\Ralf\Desktop\Treinamento Cyber Q\Lógica e Algoritmos\Aula 02\Exercicio 09\obj\Debug\net6.0\ref\Exercicio 09.dll
